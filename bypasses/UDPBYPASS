@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-#UDP MIX by Booter.Team
-#Discord: vbrxmr#7852
+#UDP MIX
+# @Vexvain :)
 
 
 import socket,random,sys,time
@@ -10,8 +10,8 @@ import socket,random,sys,time
 
 if len(sys.argv)==1:
     print('')
-    print('||| UDP MIX by Booter.Team |||')
-    print('     Discord: vbrxmr#7852 ')
+    print('||| UDP MIX |||')
+    print('     @Vexvain :) ')
     print('')
     sys.exit('Syntax: ./udpmix 127.0.0.1 80 300')
 
