@@ -1,6 +1,6 @@
-/* NEW TFTP DDoS AMPLIFICATION METHOD. */
-/* Greetz: HackForums.net */
-
+/* 
+NEW TFTP DDoS AMPLIFICATION METHOD
+*/
 #include <time.h>
 #include <pthread.h>
 #include <unistd.h>
