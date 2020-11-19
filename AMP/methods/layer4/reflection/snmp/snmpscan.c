@@ -1,4 +1,6 @@
-/* priv8 snmp scanner. lel */
+/*
+Snmp scanner
+*/
 
 #include <pthread.h>
 #include <unistd.h>
