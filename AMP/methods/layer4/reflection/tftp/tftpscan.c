@@ -1,5 +1,6 @@
-/* TFTP Vulnerability Scanner, used for Amplification DDoS. */
-/* Greetz: HackForums.net */
+/* 
+TFTP Vulnerability Scanner, used for Amplification DDoS
+*/
 
 #include <pcap.h>
 #include <stdio.h>
