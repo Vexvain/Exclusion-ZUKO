@@ -1,4 +1,6 @@
-/* priv8 ssdp scanner. lel */
+/* 
+Ssdp scanner
+*/
 
 #include <pthread.h>
 #include <unistd.h>
