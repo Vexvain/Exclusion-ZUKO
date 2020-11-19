@@ -1,7 +1,7 @@
 /* 
-   memcache reflection script
-   greeting: syn, storm, krashed, chrono, spike, niko, disliked
-   Use with extreme Caution
+   Memcache Reflection script   
+   
+   Use with extreme caution :)
 */
 
 #include <time.h>
