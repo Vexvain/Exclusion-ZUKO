@@ -1,6 +1,6 @@
-/* MDNS Amplification */
- 
-/* Made by -Shroom-, credit me cus im swag for payload and idk for original script. */
+/* 
+MDNS Amplification 
+*/
  
 #include <time.h>
 #include <pthread.h>
