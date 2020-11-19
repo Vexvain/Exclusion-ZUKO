@@ -1,6 +1,3 @@
-//possibly working WSD Amplification Scanner Because I can't code C to save my fucking life.
-// Fucking love me you god damn hoes - Entity
-
 #include <pthread.h>
 #include <unistd.h>
 #include <stdio.h>
