@@ -1,4 +1,6 @@
-/* priv8 dns amp scanner. lel */
+/* 
+Priv8 DNS AMP Scanner 
+*/
 
 #include <pthread.h>
 #include <unistd.h>
