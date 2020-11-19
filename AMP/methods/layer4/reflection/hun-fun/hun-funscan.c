@@ -1,6 +1,6 @@
-/* Arceus_HUN-FUN - Version 0.0.1*/
- 
-/* Made by Zach, This is apart of the custom attack collection for arceus. */
+/*
+HUN-FUN - Version 0.0.1
+*/
 
 #include <pthread.h>
 #include <unistd.h>
