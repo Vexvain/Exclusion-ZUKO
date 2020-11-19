@@ -1,4 +1,5 @@
-/* fukt
+/* 
+heck you!
 */
 
 #include <pthread.h>
