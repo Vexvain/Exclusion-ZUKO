@@ -1,8 +1,7 @@
-//this might work or might not. just a simple memcache reflection scanner
+//This may not work. It does when it wants to :)
 //
-//Memcached Reflection Scanner Proof of Concept 
 //
-//compile: gcc scan.c -o scan -pthread
+//Compile: gcc scan.c -o scan -pthread
 
 #include <pthread.h>
 #include <unistd.h>
