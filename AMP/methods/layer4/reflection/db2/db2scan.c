@@ -1,4 +1,6 @@
-/* DB2 Scanner, made by Bears. */
+/* 
+DB2 Scanner
+*/
 
 #include <pcap.h>
 #include <stdio.h>
