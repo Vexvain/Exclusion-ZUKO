@@ -1,4 +1,6 @@
-/* I gave this to friends and they leaked it so I may aswell give it out to people who haven't found it */
+/* 
+Giving this out to those that haven't found it :) 
+*/
 
 #include <pthread.h>
 #include <unistd.h>
