@@ -1,4 +1,4 @@
-<?PHP # Made By Zach, For Arceus, Creds to Shroom For Output Request Verification And Time Response
+<?PHP # VEXVAIN
 function discover($host, $timeout = 1) {
     $data = "\x02";
     $socket  = socket_create(AF_INET, SOCK_DGRAM, SOL_UDP);
