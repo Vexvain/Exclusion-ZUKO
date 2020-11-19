@@ -1,6 +1,6 @@
-/* mans not hot #eskimo babies @flexingonlamers. */
- 
-/* SSDP DDOS SCRIPT */
+ /* 
+ SSDP DDOS SCRIPT
+ */
  
 #include <time.h>
 #include <pthread.h>
